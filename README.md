@@ -40,4 +40,12 @@ Build a native mobile application that displays:
   npm start # you can also use: expo start 
   ```
 * Screenshot
-![Step_1](https://user-images.githubusercontent.com/55101879/79078937-c26ea500-7cd9-11ea-851a-a0169dd839bd.png)
+ ![Step_1](https://user-images.githubusercontent.com/55101879/79078937-c26ea500-7cd9-11ea-851a-a0169dd839bd.png)
+
+### Step 2 [Finished]
+* Open a App.js file and write a code that outputs Hello World
+* Screenshot Web
+ ![Step2Web](https://user-images.githubusercontent.com/55101879/79079168-7d4b7280-7cdb-11ea-9243-320961710c48.png)
+* Screenshot Android
+
+ ![Step2Android](https://user-images.githubusercontent.com/55101879/79080324-dfa77180-7ce1-11ea-828f-8700e2a6f3bb.jpg)
