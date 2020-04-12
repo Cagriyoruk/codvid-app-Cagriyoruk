@@ -48,4 +48,4 @@ Build a native mobile application that displays:
  ![Step2Web](https://user-images.githubusercontent.com/55101879/79079168-7d4b7280-7cdb-11ea-9243-320961710c48.png)
 * Screenshot Android
 
- <img width="162" alt="Step2AndroidOnWeb" src="https://user-images.githubusercontent.com/55101879/79080638-a7556280-7ce4-11ea-88c5-de5f166be978.png">
+  <img width="162" alt="Step2AndroidOnWeb" src="https://user-images.githubusercontent.com/55101879/79080638-a7556280-7ce4-11ea-88c5-de5f166be978.png">
