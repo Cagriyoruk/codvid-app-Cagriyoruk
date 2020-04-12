@@ -49,3 +49,5 @@ Build a native mobile application that displays:
 * Screenshot Android
 
   <img width="162" alt="Step2AndroidOnWeb" src="https://user-images.githubusercontent.com/55101879/79080638-a7556280-7ce4-11ea-88c5-de5f166be978.png">
+
+### Step 3 [Ongoing]
