@@ -50,4 +50,24 @@ Build a native mobile application that displays:
 
   <img width="162" alt="Step2AndroidOnWeb" src="https://user-images.githubusercontent.com/55101879/79080638-a7556280-7ce4-11ea-88c5-de5f166be978.png">
 
-### Step 3 [Ongoing]
+### Step 3 [Finished]
+Following the installation guide from https://github.com/react-native-community
+* Installing the react-native with the commandline:
+
+ ```
+ npm install react-native-maps --save-exact
+ ```
+* Get a Google API Maps key and put it inside the build grade
+ ```
+ <application>
+   <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
+   <meta-data
+     android:name="com.google.android.geo.API_KEY"
+     android:value="Your Google maps API Key Here"/>
+  
+   <!-- You will also only need to add this uses-libray tag -->
+   <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+</application>
+ ```
+* Modify the App.js file in order to retrieve maps. 
+![Step3 image](https://user-images.githubusercontent.com/55101879/80293556-818d7c00-872e-11ea-82d8-8d5b41931441.png)
