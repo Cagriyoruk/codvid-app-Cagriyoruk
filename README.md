@@ -86,5 +86,11 @@ Following the installation guide from https://github.com/react-native-community
   
 ![step4_image](https://user-images.githubusercontent.com/55101879/80294714-66743980-8739-11ea-9197-89be0c739f8d.png)
 
-### Step 5 [Ongoing]
+### Step 5 [Finished]
  * Overlay the data on the maps
+ 
+ ![step_5](https://user-images.githubusercontent.com/55101879/80314852-0f667700-87c2-11ea-81bc-44dd0f521f2c.png)
+ 
+ * Here is a little demo showing the app.
+  ![Video_demo](https://user-images.githubusercontent.com/55101879/80315213-23ab7380-87c4-11ea-97b1-3fba62429e5c.gif)
+
