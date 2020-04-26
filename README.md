@@ -82,5 +82,7 @@ Following the installation guide from https://github.com/react-native-community
   
   * Total Recovered Cases
   
+ * Practice the api on another branch : step_4
+  
 ![step4_image](https://user-images.githubusercontent.com/55101879/80294714-66743980-8739-11ea-9197-89be0c739f8d.png)
 
