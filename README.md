@@ -89,7 +89,6 @@ Following the installation guide from https://github.com/react-native-community
 ### Step 5 [Finished]
  * Overlay the data on the maps
  
- ![step_5](https://user-images.githubusercontent.com/55101879/80314852-0f667700-87c2-11ea-81bc-44dd0f521f2c.png)
  
 
 
