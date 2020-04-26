@@ -50,4 +50,53 @@ Build a native mobile application that displays:
 
   <img width="162" alt="Step2AndroidOnWeb" src="https://user-images.githubusercontent.com/55101879/79080638-a7556280-7ce4-11ea-88c5-de5f166be978.png">
 
-### Step 3 [Ongoing]
+### Step 3 [Finished]
+Following the installation guide from https://github.com/react-native-community
+* Installing the react-native with the commandline:
+
+ ```
+ npm install react-native-maps --save-exact
+ ```
+* Get a Google API Maps key and put it inside the build grade
+ ```
+ <application>
+   <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
+   <meta-data
+     android:name="com.google.android.geo.API_KEY"
+     android:value="Your Google maps API Key Here"/>
+  
+   <!-- You will also only need to add this uses-libray tag -->
+   <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+</application>
+ ```
+* Modify the App.js file in order to retrieve maps. 
+![Step3 image](https://user-images.githubusercontent.com/55101879/80293556-818d7c00-872e-11ea-82d8-8d5b41931441.png)
+
+### Step 4 [Finished]
+* With the dataset provided from the covid19api.com, display:
+  * Date
+  
+  * Total Confirmed Cases
+  
+  * Total Deaths
+  
+  * Total Recovered Cases
+  
+ * Practice the api on another branch : step_4
+  
+![step4_image](https://user-images.githubusercontent.com/55101879/80294714-66743980-8739-11ea-9197-89be0c739f8d.png)
+
+### Step 5 [Finished]
+ * Overlay the data on the maps
+ 
+ ![step_5](https://user-images.githubusercontent.com/55101879/80315573-6cfcc280-87c6-11ea-8679-edf501618344.png)
+
+* Here is a demo of the app
+
+ ![Video_gif](https://user-images.githubusercontent.com/55101879/80315613-c06f1080-87c6-11ea-94ad-93c9990fde4b.gif)
+
+
+ 
+ 
+
+
